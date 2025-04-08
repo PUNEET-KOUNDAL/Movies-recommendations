@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourUsername/Movies-recommendations.git
+    git clone https://github.com/PUNEET-KOUNDAL/Movies-recommendations.git
     ```
 
 2. Navigate to the project directory:
@@ -49,6 +49,13 @@ To run this project locally, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
+    (till now we dont have requirement.txt (v2) ,
+   pip install streamlit
+   pip install pickle5
+   pip install sklearn
+   pip install numpy as np
+   pip install pandas as pd)
+   
 
 ## Usage
 
