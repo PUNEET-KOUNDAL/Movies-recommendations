@@ -51,10 +51,15 @@ To run this project locally, follow these steps:
     ```
     (till now we dont have requirement.txt (v2) ,
    pip install streamlit
+   
    pip install pickle5
+   
    pip install sklearn
+   
    pip install numpy as np
+   
    pip install pandas as pd)
+   
    
 
 ## Usage
